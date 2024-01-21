@@ -1,7 +1,7 @@
 # Product Sales Analysis and Visualizations using Python
 
 ## Overview
-This project explores an electronics sales dataset from Amazon, focusing on user ratings, product categories, and sales trends. The analysis utilizes Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn. The dataset, containing user ratings for various electronics items, is available [here](insert_link).
+This project explores an electronics sales dataset from Amazon, focusing on user ratings, product categories, and sales trends. The analysis utilizes Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn. The dataset, containing user ratings for various electronics items, is available [here]([insert_link](https://www.kaggle.com/datasets/edusanketdk/electronics)).
 
 ## Introduction
 In the competitive landscape of online sales and e-commerce, companies aim to enhance sales strategies and understand customer needs. Product sales analysis, a crucial aspect for businesses, offers insights into market performance and profitability.
